@@ -1,4 +1,4 @@
-### Olá! Eu sou o Elnatã Amorim
+### Olá! Me chamo Elnatã Amorim, seja bem vindo.
 
 
 - 🌱 Estudo JavaScript
