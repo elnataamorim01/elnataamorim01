@@ -1,7 +1,7 @@
 ### Olá! Me chamo Elnatã Amorim, seja bem vindo.
 
 
-- 🌱 Estudo JavaScript
+- 🌱 Estudante JavaScript.
 - 📫 Contate-me pelo email: elnata.amorim@lidetech.com.br
 - 😄 Pronouns: ele/dele
 
